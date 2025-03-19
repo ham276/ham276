@@ -1,4 +1,4 @@
-- 👋 Hi, I’m your instructor John Hamilton  
+- 
 - 👀 I’m interested in ... You the student 
 - 🌱 I’m currently learning ... How to help you the student becoming an expert at Software Development 
 - 💞️ I’m looking to collaborate on ...
